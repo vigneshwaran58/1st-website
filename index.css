@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.imager img{
+    width: 350px;
+    height: 300px;
+}
+
+.imm{
+    width: 500px;
+    height: 500px;
+}
+
+.pp{
+
+padding: 40px;
+width: 425px;
+    font-family: cursive;
+    font-size:40px ;    
+}
+@media all and (max-width:350px){
+    .pp{
+width: 250px;
+    }
+}
+.pp1{
+    padding: 10px;
+    width: 300px;
+        font-family: cursive;
+        padding-left: 30px;
+}
+@media all and (max-width:350px){
+    .pp1{
+        width: 250px;
+    }
+}
+.but{
+   
+    color: rgb(10, 9, 9);
+    background-color: rgba(186, 128, 12, 0.504);
+    padding: 10px 30px;
+    width: 100px;
+    border-radius: 100px;
+}
+.bbu{
+    border-radius: 100px;
+}
+span{
+    color: rgb(247, 175, 20);
+}
+
+.aa{
+    
+    border: 2px solid black;
+    
+}
+
+ .a1{
+    width: 200px;
+    height: 150px;
+ 
+ }
+
+.icc{
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+.rc1{
+    padding: 20px;
+    /* border: 2px solid black; */
+    border-radius: 80px;
+    background-color: rgba(255, 179, 27, 0.382);  
+}
+.cr1 :hover{
+    background-color: rgba(255, 179, 27, 0.382);
+    border-radius: 80px;
+}
+
+.BB{
+    background-color: rgba(243, 178, 47, 0.715);
+text-align: center; 
+    padding: 0px;
+    
+}
+                                                   
+
+.f1{
+    background-color: rgb(255, 191, 0);
+    border-radius: 90px;
+    margin-bottom: 20px;
+}
+body{
+    background-color: rgba(255, 179, 27, 0.382);
+}
+@media all and (max-width:350px){
+    .hh{
+        margin-top: 80px;
+    }
+}
